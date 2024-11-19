@@ -4,7 +4,7 @@ collection: teaching
 type: "Tutorial and Lab"
 permalink: /teaching/2024-spring-teaching-2
 venue: "University of Sydney"
-date: 2023
+date: 2023-03-01
 location: "Sydney, Australia"
 ---
 
