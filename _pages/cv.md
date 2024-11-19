@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Marine Robotics group, Australian Centre for Robotics, University of Sydney, 2020 - present
-* M.S. in Jekyll, Shanghai Jiao Tong University, 2022
-* B.S. in GitHub, Southeast University, 2017
+* Ph.D in CV/ML, Marine Robotics group, Australian Centre for Robotics, University of Sydney, 2020 - present
+* M.S. in Information and Communication Engineering, Shanghai Jiao Tong University, 2022
+* B.S. in Electronic Science and Technology, Southeast University, 2017
 
 
 Publications
