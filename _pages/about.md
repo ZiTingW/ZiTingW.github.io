@@ -7,6 +7,9 @@ redirect_from:
   - /about.html
 ---
 
+About Me
+======
+I'm a PhD student in the marine robotics group, ACFR, USYD, supervised by Prof. Stefan Williams, and Prof. Oscar Pizarro. Always happy to try new algorithms in real-world applications. 
 
 Research Interests
 ======
