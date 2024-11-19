@@ -8,5 +8,5 @@ date: 2023-03-01
 location: "Sydney, Australia"
 ---
 
-Tutorial and Labs of AMME 3500 in 2022, 2023, 2024.
+Working as a tutor (Tutorial and Labs) for AMME 3500 in 2022, 2023, and 2024.  
 
