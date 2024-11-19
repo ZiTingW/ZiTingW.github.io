@@ -2,7 +2,7 @@
 title: "AMME 3500 System Dynamics and Control"
 collection: teaching
 type: "Tutorial and Lab"
-permalink: "https://www.sydney.edu.au/units/AMME3500/2024-S1C-ND-CC"
+permalink: /teaching/2024-spring-teaching-2
 venue: "University of Sydney"
 date: 2023
 location: "Sydney, Australia"
