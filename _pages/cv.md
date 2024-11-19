@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in CV/ML, Marine Robotics group, Australian Centre for Robotics, University of Sydney, 2020 - present
-* M.S. in Information and Communication Engineering, Shanghai Jiao Tong University, 2022
+* M.S. in Information and Communication Engineering, Shanghai Jiao Tong University, 2020
 * B.S. in Electronic Science and Technology, Southeast University, 2017
 
 
