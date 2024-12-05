@@ -23,6 +23,12 @@ Publications
   {% endfor %}</ul>
   
 
+Honors and Awards
+======
+* Faculty of Engineering Career Advancement Award, University of Sydney
+* Outstanding Graduate Award, Shanghai Jiao Tong University
+
+
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
