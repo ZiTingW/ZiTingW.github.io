@@ -17,4 +17,4 @@ Key observations:
 2.  Label propagation on pre-trained features to construct prior pseudo-labels, serving as an effective intermediary to transfer information from self-supervised learning to semi-supervised models.
 3.  Adapt active learning to improve the accuracy of prior pseudo-labels. 
 
-<img src="../images/as3l.png" alt="Alt text for image" style="width:500px;">
+<img src="../images/as3l.png" alt="Alt text for image" style="width:700px;">
