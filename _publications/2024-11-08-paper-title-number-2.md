@@ -9,7 +9,7 @@ venue: 'TMLR'
 slidesurl: #'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'https://openreview.net/pdf?id=PNcgJMJcdl'
 citation: 'Ziting Wen, Oscar Pizarro, and Stefan B. Williams. "Feature Alignment: Rethinking Efficient Active Learning via Proxy in the Context of Pre-trained Models." Transactions on Machine Learning Research (2024).'
-image: "/images/asvp_img.png"
+image: "../images/asvp_img.png"
 ---
 
 Key observations:
